@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ Permite\ al\ usuario\ interactuar\ con\ el\ sistema\ de\ turnos\r\n\ mediante\ un\ men\u00FA\ en\ consola.\r\n\ \r\n\ @author\ Tadeo\ Reinante\r\n\ @version\ 24/01/26\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Main\r\n
-numComments=2
